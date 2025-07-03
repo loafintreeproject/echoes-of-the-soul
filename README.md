@@ -1,4 +1,4 @@
-![Echoes of the Soul Banner](assets/banner.jpg)
+![Echoes of the Soul Banner](Road_banner_v3.jpeg)
 
 # Echoes of the Soul
 
