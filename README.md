@@ -15,9 +15,9 @@ This repository features public journal entries, philosophical reflections, and 
 - Narrative Scenes and Quotes
 
 Follow the project on:
-- [Medium](#)
-- [Substack](#)
-- [Reddit](#)
+- [Medium](https://medium.com/@loafintreeproject)
+- [Substack](https://substack.com/@loafintreeproject)
+- [Reddit](https://www.reddit.com/user/loafintreeproject/)
 ---
 
 🛡️ Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
