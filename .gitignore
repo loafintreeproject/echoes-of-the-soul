@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Word/Office/Temp
+~$*.docx
+*.tmp
+
+# Markdown and build
+_site/
+*.log
+
+# Git
+.gitignore
